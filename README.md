@@ -22,13 +22,13 @@ Automate TikTok follower bot, like bot, share bot, view bot and more using selen
 5. Make the captcha 
 6. Enjoy !
 
-## Need help ?
+## Donate
 
-> https://discord.gg/femelles
-  <br>
-  
-> F♥m♥ll♥s👑#9215
+<a href="https://trakteer.id/hunty" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 
-### Please note
+---------------------------------------
+## License
 
-This script automates the website https://zefoy.com/ which is a website you can boost your TikTok followers/likes/shares/views. 
+[MIT License](https://github.com/BotHunting/)
+
+Copyright (c) 2024 Bot Hunting
